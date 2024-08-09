@@ -1,0 +1,25 @@
+Nome:Luis Henrique,Ingrid Barretto, Wendryu
+
+Projeto
+
+      1.Cadastro do site
+O sistema permiti que o site registre suas informações que precisam ser inseridas incluem:
+
+.Titulo: estilo de roupa pessoal
+.Preço: valor das peças que gostaram
+.Quantidade: quantas peças tem no estoque
+.Cores: cor da peça que ele deseja
+.Sistema de Notificação de Entrega: mostra onde a compra esta, se está a caminho.
+
+      2- Cadastro pessoal 
+. nome completo do cliente.
+. endereço completo 
+. tamanho que o cliente usa 
+. cpf 
+. telefone para contato ou email
+
+     3- Comprovante de compra 
+. mostrará o dia e a hora que a compra foi realizada 
+. mostrará se a compra foi feita no pix ou cartão 
+. mostrará o nome do cliente e o endereço da entrega 
+. mostrará o prazo que o produto tem para chegar até o local da entrega
