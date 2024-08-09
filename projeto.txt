@@ -2,7 +2,12 @@ Nome:Luis Henrique,Ingrid Barretto, Wendryu
 
 Projeto
 
-      1.Cadastro do site
+
+
+Requisitos Funcionais
+
+     
+       1.Cadastro do site
 O sistema permiti que o site registre suas informações que precisam ser inseridas incluem:
 
 .Titulo: estilo de roupa pessoal
@@ -22,4 +27,39 @@ O sistema permiti que o site registre suas informações que precisam ser inseri
 . mostrará o dia e a hora que a compra foi realizada 
 . mostrará se a compra foi feita no pix ou cartão 
 . mostrará o nome do cliente e o endereço da entrega 
-. mostrará o prazo que o produto tem para chegar até o local da entrega
+. mostrará o prazo que o produto tem para chegar até o local da entrega 
+
+
+Requisitos não Funcionais
+
+
+1.Desempenho
+
+. Tempo de Resposta: O sistema deve responder à consulta do cliente em no máximo 2 segundos.
+. Capacidade de Processamento: o sistema deve ser capaz de processar até 400 vendas simultâneas sem degradar o desempenho do site
+. Software: Características que facilitam a manutenção do software, como legibilidade do código, modularidade e documentação
+. Proteção: Especificações que abordam medidas de segurança para proteger dados, prevenir acessos não autorizados e garantir a integridade do sistema.
+
+2.Confiabilidade
+
+
+. Erros: o sistema deve corrigir os erros o mais rápido possível, garantindo não perder nada.
+. Sistema: o sistema tem que ser disponível 99,9% do dia a dia, tornando a experiencia melhor.
+.  Suporte: o sistema suporta mais de 1000 aparelhos simultaneamente.
+
+3.Segurança
+
+. Algoritmo: Utilizar algoritmos de criptografia para proteger os dados sensíveis armazenados e transmitidos pelo aplicativo. Isso inclui criptografar informações como senhas, números de cartões de crédito e dados pessoais, garantindo que apenas pessoas autorizadas possam ter acesso
+.Autenticação do usuário: o acesso somente para funcionários cadastrados no sistema 
+.Adequadação:As plataformas para mobile utilizam padrões e APIs com diferentes recursos de segurança e permissões. Com isso, para garantir a segurança, um dos primeiros passos é a pesquisa de informações sobre os sistemas operacionais em que o app irá rodar, como iOS e Android, para que o código seja devidamente adaptado às suas especificidades.
+
+4.Usabilidade 
+
+. interfaces fáceis, claras e simples de mexer 
+. dispositivos disponíveis: 
+. telefones celulares, computadores e tablets 
+. permite facilitar a realização de ações dentro do site através de diversos aspectos
+. permite que os clientes possam falar com os vendedores e ter acesso a outras informações do produto
+
+
+
